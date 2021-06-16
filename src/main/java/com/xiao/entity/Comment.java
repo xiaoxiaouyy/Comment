@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @Description: 评论实体类
  * @Date: Created in 11:02 2020/4/14
- * @Author: ONESTAR
+ * @Author: xiao
  * @QQ: 316392836
  * @URL: https://onestar.newstar.net.cn/
  */
